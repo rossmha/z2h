@@ -1,0 +1,10 @@
+{
+    "baseUrl": "http://localhost:3000/",
+    "watchForFileChanges": false,
+    "ignoreTestFiles": ["**/1-getting-started/*", "**/2-advanced-examples/*"],
+    "env": {
+        "username": "ted@test.com",
+        "password": "ted",
+        "apiUrl": "http://localhost:3000/"
+    }
+}
